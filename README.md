@@ -19,19 +19,19 @@ In the data preprocessing process, only the files of HKIB-20000_001.txt ~ 004 we
 Each feature was extracted by adding #, =, + ,,, $, & & in addition to default  
 
 ## Performance analysis
-** Develop	Environment** :  
+**Develop	Environment** :  
 Language : JAVA	  
 Tool : Eclipse   
 OS	: Window10  
 CPU :	i3-6100U  
 RAM : 4GB  
 
-**	Train/test time**   
+**Train/test time**   
 Train – In 1min   
 Test - 1min 30sec     
-**	The number of line**   
+**The number of line**   
 Train - 550 lines   
 Test – 175lines  
 
-**	Accuracy**  
+**Accuracy**  
 65.0548%
